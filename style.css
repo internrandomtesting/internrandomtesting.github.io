@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Gill Sans';
+    src: url('./fonts/Gill Sans.otf');
+}
+
+body {
+    font-family: 'Gill Sans';
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 5vh;
+}
